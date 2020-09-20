@@ -1,4 +1,4 @@
-### Hello World, I'm Flávio! :D 👋
+### Hello, I'm Flávio! :D 👋
 
 <a target="_blank" href="https://www.linkedin.com/in/fl%C3%A1vio-in%C3%A1cio/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -20,8 +20,9 @@
   <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-### About me
-I'm a {frontend } developer.
+
+### About me </br>
+Hi👋, I'm Flávio Inácio 😁. I'm a Front-end develover from Brasil, 20 years old and 3 of coding 🖥️.
 
 
 ##### Languages and Tools:
