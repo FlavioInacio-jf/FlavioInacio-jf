@@ -1,4 +1,8 @@
-### Hello, I'm Flávio! :D 👋
+<div align='center'>
+  <h1>
+     Hi, My name is <a href="https://www.linkedin.com/in/fl%C3%A1vio-in%C3%A1cio/">Flávio Ináco</a>
+  </h1>
+</div>
 
 <a target="_blank" href="https://www.linkedin.com/in/fl%C3%A1vio-in%C3%A1cio/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -25,16 +29,19 @@
 Hi👋, I'm Flávio Inácio 😁. I'm a Front-end develover from Brasil, 22 years old and 4 of coding 🖥️.
 
 
-##### Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-![Flávio Inácio GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioInacio-jf&show_icons=true)
+<div align="center">
+  <div align='center'>
+  <img height="194px" src="https://github-readme-stats.vercel.app/api?username=FlavioInacio-jf&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioInacio-jf&langs_count=8&theme=vision-friendly-dark&hide_border=true">
+</div>
+  
+  <div align = "center">
+  
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FlavioInacio-jf&theme=highcontrast)](https://git.io/streak-stats)
+  
+</div>
+</div>
 <!--
 **FlavioInacio-jf/FlavioInacio-jf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
